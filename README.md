@@ -1,4 +1,5 @@
 ## Numpy-Notes
+A Simple Guide to Numpy functions 
 Creating Arrays:
 •	np.array(): Create a NumPy array from a Python list or tuple.
 •	np.zeros(): Create an array filled with zeros.
